@@ -1,3 +1,10 @@
+# copy and paste into terminal to get files and skeleton app (done with Plotly Dash):
+# python3 -m pip install pandas dash
+# wget "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/datasets/spacex_launch_dash.csv"
+# wget "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/labs/module_3/spacex_dash_app.py"
+# python3 spacex_dash_app.py
+# REMEMBER TO PUT 'python3 spacex_dash_app.py' INTO THE TERMINAL TO GET THE NEW DASH
+
 # Import required libraries
 import pandas as pd
 import dash
