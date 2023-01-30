@@ -5,6 +5,8 @@
 # python3 spacex_dash_app.py
 # REMEMBER TO PUT 'python3 spacex_dash_app.py' INTO THE TERMINAL TO GET THE NEW DASH
 
+# RESULTING DASH: https://chlwu716-8050.theiadocker-1-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai/
+
 # Import required libraries
 import pandas as pd
 import dash
